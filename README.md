@@ -1,6 +1,5 @@
-# SBEO 
+# SBEO PHP + LARAVEL + JAVASCRIPT
 
-# PHP + LARAVEL + JAVASCRIPT
 
 Olá meu nome é Eduardo Ezequiel Marcolino
 
